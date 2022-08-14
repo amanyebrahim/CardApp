@@ -11,6 +11,7 @@
 		86597C1F287CC91300A8D6A8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86597C1E287CC91300A8D6A8 /* ContentView.swift */; };
 		86597C21287CC91500A8D6A8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 86597C20287CC91500A8D6A8 /* Assets.xcassets */; };
 		86597C24287CC91500A8D6A8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 86597C23287CC91500A8D6A8 /* Preview Assets.xcassets */; };
+		8671E97028A9509700310658 /* Screen Shot 2022-08-14 at 4.26.37 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 8671E96F28A9509700310658 /* Screen Shot 2022-08-14 at 4.26.37 PM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		86597C1E287CC91300A8D6A8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		86597C20287CC91500A8D6A8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		86597C23287CC91500A8D6A8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8671E96F28A9509700310658 /* Screen Shot 2022-08-14 at 4.26.37 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2022-08-14 at 4.26.37 PM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +37,7 @@
 		86597C10287CC91300A8D6A8 = {
 			isa = PBXGroup;
 			children = (
+				8671E96E28A9507800310658 /* screenShot */,
 				86597C1B287CC91300A8D6A8 /* CardApp */,
 				86597C1A287CC91300A8D6A8 /* Products */,
 			);
@@ -65,6 +68,14 @@
 				86597C23287CC91500A8D6A8 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		8671E96E28A9507800310658 /* screenShot */ = {
+			isa = PBXGroup;
+			children = (
+				8671E96F28A9509700310658 /* Screen Shot 2022-08-14 at 4.26.37 PM.png */,
+			);
+			path = screenShot;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -127,6 +138,7 @@
 			files = (
 				86597C24287CC91500A8D6A8 /* Preview Assets.xcassets in Resources */,
 				86597C21287CC91500A8D6A8 /* Assets.xcassets in Resources */,
+				8671E97028A9509700310658 /* Screen Shot 2022-08-14 at 4.26.37 PM.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
